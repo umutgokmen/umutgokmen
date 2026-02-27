@@ -45,9 +45,3 @@ Kendimi sürekli geliştirmeyi, yeni teknolojiler denemeyi ve öğrendiklerimi t
 > Her gün yeni bir bilgi keşfetmek ve bunu kodla hayat buldurmak için buradayım!  
 > **Kod, paylaş ve ilham al!** 🚀
 
-```
-Not: Profil readme'sinde e-postanızı eklemek isterseniz ilgili kısmı doldurabilirsiniz.  
-Profilinizi güzelleştirmek için ikon/rozet sitelerini veya özel tasarım başlıklarını da ekleyebilirsiniz.  
-
-Kaynak:  
-1. [Umut Gökmen umutgokmen - GitHub](https://github.com/umutgokmen)
