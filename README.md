@@ -1,16 +1,53 @@
-## Hi there 👋
+<img align="right" width="180" src="https://avatars.githubusercontent.com/u/110605889?v=4" alt="umutgokmen profile picture">
 
-<!--
-**umutgokmen/umutgokmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ben açık kaynak dünyasına ve sürekli öğrenmeye gönül vermiş bir yazılım geliştiricisiyim. Özellikle **robotik, veri analitiği, modelleme** ve **bilimsel hesaplama** konularında aktif olarak projeler geliştiriyorum.
 
-Here are some ideas to get you started:
+Kendimi sürekli geliştirmeyi, yeni teknolojiler denemeyi ve öğrendiklerimi toplulukla paylaşmayı seviyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚙️ Aktif Projeler & Alanlar
+
+- **Robotik & Otonom Sistemler**  
+  ROS (Robot Operating System) altyapılı akıllı robotlar ve otonom sistem projeleri.
+- **Veri Madenciliği & Analitik**  
+  Python tabanlı veri analizi, makine öğrenimi ve modelleme çözümleri.
+- **Akademik/Araştırma Odaklı Projeler**  
+  Mühendislik, bilimsel modelleme ve çeşitli araştırma projeleri.
+
+---
+
+## 🛠️ Kullandığım Teknolojiler & Diller
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=matlab&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314e?logo=ros&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+
+---
+
+## ✨ Açık Kaynak & Topluluk
+
+- Açık kaynak projeler üretiyor, bilim ve eğitim için paylaşıyorum.
+- Başka projelere de katkı sağlamaktan keyif alıyorum.
+- Temiz, okunabilir ve sürdürülebilir kodu önemsiyorum.
+
+---
+
+## 📫 Bana Ulaşın
+
+- GitHub: [umutgokmen](https://github.com/umutgokmen)
+- E-posta: [umutgokmen48@gmail.com]
+
+---
+
+> Her gün yeni bir bilgi keşfetmek ve bunu kodla hayat buldurmak için buradayım!  
+> **Kod, paylaş ve ilham al!** 🚀
+
+```
+Not: Profil readme'sinde e-postanızı eklemek isterseniz ilgili kısmı doldurabilirsiniz.  
+Profilinizi güzelleştirmek için ikon/rozet sitelerini veya özel tasarım başlıklarını da ekleyebilirsiniz.  
+
+Kaynak:  
+1. [Umut Gökmen umutgokmen - GitHub](https://github.com/umutgokmen)
