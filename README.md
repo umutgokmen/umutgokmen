@@ -1,47 +1,95 @@
-<img align="right" width="180" src="https://avatars.githubusercontent.com/u/110605889?v=4" alt="umutgokmen profile picture">
+# Umut Gokmen
 
-Ben açık kaynak dünyasına ve sürekli öğrenmeye gönül vermiş bir yazılım geliştiricisiyim. Özellikle **robotik, veri analitiği, modelleme** ve **bilimsel hesaplama** konularında aktif olarak projeler geliştiriyorum.
+**Software Engineer | Full Stack Developer**
 
-Kendimi sürekli geliştirmeyi, yeni teknolojiler denemeyi ve öğrendiklerimi toplulukla paylaşmayı seviyorum.
-
----
-
-## ⚙️ Aktif Projeler & Alanlar
-
-- **Robotik & Otonom Sistemler**  
-  ROS (Robot Operating System) altyapılı akıllı robotlar ve otonom sistem projeleri.
-- **Veri Madenciliği & Analitik**  
-  Python tabanlı veri analizi, makine öğrenimi ve modelleme çözümleri.
-- **Akademik/Araştırma Odaklı Projeler**  
-  Mühendislik, bilimsel modelleme ve çeşitli araştırma projeleri.
+I am a software engineer specializing in modern web technologies and full-stack development. I am passionate about building scalable applications, solving complex problems, and contributing to open-source projects.
 
 ---
 
-## 🛠️ Kullandığım Teknolojiler & Diller
+## About Me
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=matlab&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314e?logo=ros&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+I focus on developing efficient, maintainable, and user-centric software solutions. My approach combines clean code principles with innovative problem-solving to deliver high-quality results.
 
----
-
-## ✨ Açık Kaynak & Topluluk
-
-- Açık kaynak projeler üretiyor, bilim ve eğitim için paylaşıyorum.
-- Başka projelere de katkı sağlamaktan keyif alıyorum.
-- Temiz, okunabilir ve sürdürülebilir kodu önemsiyorum.
+**Current Focus:**
+- Building scalable web applications
+- Exploring cloud architecture and DevOps practices
+- Contributing to open-source communities
+- Continuous learning and skill development
 
 ---
 
-## 📫 Bana Ulaşın
+## Technical Skills
 
-- GitHub: [umutgokmen](https://github.com/umutgokmen)
-- E-posta: [umutgokmen48@gmail.com]
+**Languages:**
+- JavaScript / TypeScript
+- Python
+- Java
+- SQL
+
+**Frontend:**
+- React / Next.js
+- HTML5 / CSS3
+- Tailwind CSS
+- Redux / Context API
+
+**Backend:**
+- Node.js / Express
+- REST APIs
+- GraphQL
+- Database Design
+
+**Tools & Technologies:**
+- Git / GitHub
+- Docker
+- CI/CD
+- AWS / Cloud Services
+- Testing Frameworks
 
 ---
 
-> Her gün yeni bir bilgi keşfetmek ve bunu kodla hayat buldurmak için buradayım!  
-> **Kod, paylaş ve ilham al!** 🚀
+## Featured Projects
+
+**[Project Name 1]**  
+Brief description of the project highlighting the problem solved and technologies used.
+
+**[Project Name 2]**  
+Brief description of the project highlighting the problem solved and technologies used.
+
+**[Project Name 3]**  
+Brief description of the project highlighting the problem solved and technologies used.
+
+---
+
+## Professional Experience
+
+I have experience working on diverse projects ranging from enterprise applications to personal initiatives, with a focus on:
+
+- Designing and implementing RESTful APIs
+- Building responsive user interfaces
+- Optimizing application performance
+- Collaborating in agile development environments
+- Writing comprehensive technical documentation
+
+---
+
+## Get in Touch
+
+I am always interested in connecting with fellow developers, discussing new opportunities, or collaborating on interesting projects.
+
+**LinkedIn:** [Your LinkedIn Profile]  
+**Email:** [Your Email]  
+**Website:** [Your Portfolio Website]  
+**Twitter:** [Your Twitter Handle]
+
+---
+
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umutgokmen&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umutgokmen&layout=compact&theme=default&hide_border=true)
+
+---
+
+**Open to opportunities and collaboration**
 
